@@ -1,4 +1,6 @@
 paint_buckets
 =============
 
-mod for the game Minetest - adds 120 colors as paint buckets, designed to replace dyes mod.
+Mod for the game Minetest
+Adds 120 colors as paint buckets
+Designed to replace dyes mod.
