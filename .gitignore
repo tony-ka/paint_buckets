@@ -1,9 +1,0 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-
-# Project property files
-.LuaProperties
-.flexProperties
-.settings/
-.project
