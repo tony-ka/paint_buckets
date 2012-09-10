@@ -11,10 +11,10 @@
 -- ---------------------------------------
 -- Copyright (C) 2012 Perttu Ahola (celeron55) <celeron55@gmail.com>
 --
--- This program is free software. It comes without any warranty, to
+-- this program is free software. It comes without any warranty, to
 -- the extent permitted by applicable law. You can redistribute it
--- and/or modify it under the terms of the Do What The Fuck You Want
--- To Public License, Version 2, as published by Sam Hocevar. See
+-- and/or modify it under the terms of the Do What the Fuck You Want
+-- to Public License, Version 2, as published by Sam Hocevar. See
 -- http://sam.zoy.org/wtfpl/COPYING for more details.
 --
 
@@ -131,15 +131,15 @@ paint_bucketslocal.mixbases = {"s10","s9", "s8", "s7", "s6", "s5", "s4", "s3", "
 
 paint_bucketslocal.mixes = {
 	--     s10,   s9,    s8,    s7,    s6,    s5,    s4,    s3,    s2,    s1,    p5,    p4,   p3,   p2,   p1
-	p1 = {"T10", "T9",  "T8",  "T7",  "T6",  "T5",  "T4",  "T3",  "T2",  "T1",  "s4",  "s3", "s2", "s1", "p1"},
-	p2 = {"T19", "T18", "p5",  "T17", "T16", "T15", "T14", "T13", "T12", "T11", "s7",  "s6", "s5", "p2"},
-	p3 = {"T28", "T27", "T26", "T25", "p5",  "T24", "T23", "T22", "T21", "T20", "s9",  "s8", "p3"},
-	p4 = {"T37", "T36", "T35", "T34", "T33", "p5",  "T32", "T31", "T30", "T29", "s10", "p4"},
-	p5 = {"T47", "T46", "T45", "T44", "T43", "T42", "T41", "T40", "T39", "T38", "p5"},
-	s1 = {"q7",  "q6",  "q5",  "T14", "q4",  "q3",  "T7",  "q2",  "q1",  "s1"},
-	s2 = {"q5",  "T23", "q10", "q6",  "q7",  "q9",  "T9",  "q8",  "s2"},
-	s3 = {"T32", "q5",  "q12", "q7",  "q11", "q6",  "T10", "s3"},
-	s4 = {"T40", "T39", "q15", "T38", "q14", "q13", "s4"},
+	p1 = {"t10", "t9",  "t8",  "t7",  "t6",  "t5",  "t4",  "t3",  "t2",  "t1",  "s4",  "s3", "s2", "s1", "p1"},
+	p2 = {"t19", "t18", "p5",  "t17", "t16", "t15", "t14", "t13", "t12", "t11", "s7",  "s6", "s5", "p2"},
+	p3 = {"t28", "t27", "t26", "t25", "p5",  "t24", "t23", "t22", "t21", "t20", "s9",  "s8", "p3"},
+	p4 = {"t37", "t36", "t35", "t34", "t33", "p5",  "t32", "t31", "t30", "t29", "s10", "p4"},
+	p5 = {"t47", "t46", "t45", "t44", "t43", "t42", "t41", "t40", "t39", "t38", "p5"},
+	s1 = {"q7",  "q6",  "q5",  "t14", "q4",  "q3",  "t7",  "q2",  "q1",  "s1"},
+	s2 = {"q5",  "t23", "q10", "q6",  "q7",  "q9",  "t9",  "q8",  "s2"},
+	s3 = {"t32", "q5",  "q12", "q7",  "q11", "q6",  "t10", "s3"},
+	s4 = {"t40", "t39", "q15", "t38", "q14", "q13", "s4"},
 	s5 = {"q18", "q17", "s9",  "q16", "s7",  "s5"},
 	s6 = {"q21", "q20", "s10", "q19", "s6"},
 	s7 = {"q20", "q18", "q22", "s7"},
